@@ -1,3 +1,3 @@
 module gitlab.itingluo.com/opensource
 
-go 1.21
+go 1.23.2
